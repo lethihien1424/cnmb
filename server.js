@@ -188,6 +188,8 @@ const startServer = async () => {
           "http://localhost:5174",
           "http://127.0.0.1:5173",
           "http://127.0.0.1:5174",
+          "https://cnmv-z92s.vercel.app",
+          "https://cnmv-z92s-68jj4o9j4-lethihien1424s-projects.vercel.app",
         ],
         methods: ["GET", "POST"],
         credentials: true,

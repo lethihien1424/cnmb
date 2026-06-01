@@ -4,7 +4,7 @@
 node_modules
 dist
 # Upload ảnh tạm
-uploads/
+
 
 # Log files
 *.log
