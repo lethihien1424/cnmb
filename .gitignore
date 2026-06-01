@@ -1,0 +1,19 @@
+# Dependencies
+.env
+.env.local
+node_modules
+dist
+# Upload ảnh tạm
+uploads/
+
+# Log files
+*.log
+npm-debug.log*
+.env
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
